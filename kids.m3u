@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 ,#EXTGRP:Детские
+http://194.87.237.169:8888/srv3/101156/mpegts?token=B3CBF9RKLQWP
+#EXTINF:-1 ,#EXTGRP:Детские
+http://194.87.237.169:8888/srv2/103614/mpegts?token=B3CBF9RKLQWP
+#EXTINF:-1 ,#EXTGRP:Детские
+http://194.87.237.169:8888/srv2/101511/mpegts?token=B3CBF9RKLQWP
+#EXTINF:-1 ,#EXTGRP:Детские
+http://194.87.237.169:8888/srv3/102027/mpegts?token=B3CBF9RKLQWP
+#EXTINF:-1 ,#EXTGRP:Детские
+http://194.87.237.169:8888/srv2/100973/mpegts?token=B3CBF9RKLQWP
+#EXTINF:-1 ,#EXTGRP:Детские
+http://194.87.237.169:8888/srv2/100972/mpegts?token=B3CBF9RKLQWP
+#EXTINF:-1 ,#EXTGRP:Детские
+http://194.87.237.169:8888/srv3/103615/mpegts?token=B3CBF9RKLQWP
+#EXTINF:-1 ,#EXTGRP:Детские
+http://194.87.237.169:8888/srv3/103512/mpegts?token=B3CBF9RKLQWP
+#EXTINF:-1 ,#EXTGRP:Детские
+http://194.87.237.169:8888/srv3/100709/mpegts?token=B3CBF9RKLQWP
+#EXTINF:-1 ,#EXTGRP:Детские
+http://194.87.237.169:8888/srv3/100818/mpegts?token=B3CBF9RKLQWP
+#EXTINF:-1 ,#EXTGRP:Детские
+http://194.87.237.169:8888/srv3/100708/mpegts?token=B3CBF9RKLQWP
+#EXTINF:-1 ,#EXTGRP:Детские
+http://194.87.237.169:8888/srv3/100406/mpegts?token=B3CBF9RKLQWP
+#EXTINF:-1 ,#EXTGRP:Детские
+http://194.87.237.169:8888/srv1/100776/mpegts?token=B3CBF9RKLQWP
